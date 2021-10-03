@@ -1,4 +1,4 @@
-number = int(input("Eneter a number please: "))
+number = int(input("Enter a number please: "))
 def isPrime(n):
     flag = True
     for i in range(2, n):
